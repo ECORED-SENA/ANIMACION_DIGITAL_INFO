@@ -1,1 +1,1 @@
-module.exports = 'Nombre del componente formativo'
+module.exports = 'Animación 3D'
