@@ -27,19 +27,6 @@ section
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto Virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p Media académica
-                    li
-                      i.lista-ul__vineta
-                      p Certificado académico
-                    li
-                      i.lista-ul__vineta
-                      p Resultados de la prueba o examen de Estado de la educación media.
 
         .d-none.d-lg-block.col-lg-5
           img(src="@/assets/curso/img1.png")
