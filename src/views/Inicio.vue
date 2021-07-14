@@ -7,23 +7,23 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0 Animación 3D
+            .h1.mb-0 Tecnólogo Virtual en Animación Digital
           
           .h2 Información del programa
           .banner-principal__datos
             ul
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Animación 3D
+                p.banner-principal__datos__item__texto Tecnólogo Virtual en Animación Digital
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 524703
+                p.banner-principal__datos__item__texto 513601
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 3984  Horas
+                p.banner-principal__datos__item__texto 3984 Horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
-                p.banner-principal__datos__item__texto 27 Meses
+                p.banner-principal__datos__item__texto  27 meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto Virtual
@@ -37,39 +37,41 @@ section
     .titulo__template--a.mb-4
       span.h4 1. Presentación
 
-    p El tecnólogo virtual en Animación 3D brinda a los aprendices la formación necesaria para incursionar en la industria audiovisual, animación y videojuegos; respondiendo así a la alta demanda nacional e internacional de personas capacitadas dentro del sector productivo de contenidos digitales.
+    p El programa Tecnólogo Virtual en Animación Digital ofrece a los aprendices la formación necesaria para realizar productos animados, haciendo uso de diferentes técnicas de animación en formato digital siguiendo y respondiendo a los estándares y necesidades del sector productivo de la industria del entretenimiento digital.
       br
       br
-      |Al realizar este programa de formación tendrá la capacidad y conocimiento necesarios para crear un guion cinematográfico, un storyboard, desarrollar el arte conceptual de un proyecto audiovisual, ejecutar procesos de producción 3D como: esculpir, modelar, texturizar, construir el rig, animar personajes, efectos visuales (VFX), iluminar y renderizar escenas; así como, componer, editar y entregar una pieza audiovisual con altos estándares de calidad, que le darán la oportunidad de entrar en el mercado laboral y mejorar su experiencia profesional.
+      |Al término de este programa, usted podrá desempeñarse de manera pertinente y competente en cualquiera de las fases de producción de un proyecto audiovisual que involucre técnicas de animación 2D, creando productos como; guion literario, storyboard, animatic, piezas de arte conceptual, personajes animados, motion graphics, efectos y procesos como animación, postproducción y edición. Adicional, podrá desarrollar una propuesta económica costeando las necesidades y pormenores de un proyecto animado.
       br
       br
-      |El SENA cuenta con varios casos de éxito dentro de sus egresados del programa en Animación 3D; desde la co-producción con estudios de animación nacionales e internacionales, la ubicación laboral dentro de las principales productoras de videojuegos en Colombia, hasta la creación de nuevos estudios de desarrollo de contenidos digitales. 
+      |El SENA es una entidad que se articula con el sector laboral, brindando así múltiples oportunidades a sus aprendices, desde el patrocinio, la vinculación laboral, el emprendimiento o la extensión de programas por medio de especializaciones presenciales/virtuales o cursos complementarios.
       br
       br
-      |No dejes pasar esta oportunidad. Te esperamos en esta grandiosa experiencia del mundo 3D.
+      |No dejes pasar esta oportunidad. ¡Inscríbete ya!
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 2. Justificación<br>del programa
 
-    p Teniendo en cuenta la Ley Naranja del Gobierno Nacional, la cual tiene como objeto desarrollar, fomentar, incentivar y proteger las industrias creativas y de acuerdo con los datos del DANE, donde se evidencia un aumento del valor agregado por productos audiovisuales y de los ingresos por servicios de producción de películas y programas de televisión, estableciendo para el 2015 la contribución de las industrias creativas al PIB entre el 1,5% y el 3% (similar al sector minero).
+    p El programa 
+      b Tecnólogo Virtual en Animación Digital
+      |, se creó para brindar al sector productivo de la industria del entretenimiento Digital la posibilidad de incorporar personal cualificado y calificado en el proceso de producción de productos audiovisuales animados con altas capacidades creativas y profesionales, con el fin de contribuir al desarrollo económico, social y tecnológico de su entorno y del país, así como también, para mejorar la competitividad y posicionamiento de esta industria.
       br
       br
-      |El tecnólogo de formación titulada virtual en Animación 3D del SENA responde a la alta demanda por parte del sector productivo nacional e internacional de talento humano calificado en las áreas de las Tecnologías de la Información y la Comunicación (TIC). De igual manera, el programa ofrecido por el SENA cuenta con todos los elementos de formación profesional, sociales, tecnológicos y culturales, aportando como elementos diferenciadores de valor agregado metodologías de aprendizaje innovadoras, el acceso a tecnologías de última generación y una estructuración sobre métodos más que contenidos, lo que potencia la formación de ciudadanos librepensadores, con capacidad crítica, solidaria y emprendedora, factores que lo acreditan y lo hacen pertinente y coherente con su misión, innovando permanentemente de acuerdo con las tendencias y cambios tecnológicos y las necesidades del sector empresarial y de los trabajadores.
+      |El SENA es la única institución educativa que ofrece el programa con todos los elementos de formación profesional, sociales, tecnológicos y culturales, metodologías de aprendizaje innovadoras, acceso a tecnologías de última generación, estructurado sobre métodos más que contenidos, lo que potencia la formación de ciudadanos librepensadores, con capacidad crítica, solidarios y emprendedores, que lo acreditan y lo hacen pertinente y coherente con su misión, innovando permanentemente de acuerdo con las tendencias y cambios tecnológicos y las necesidades del sector empresarial y de los trabajadores, impactando positivamente la productividad, la competitividad, la equidad y el desarrollo del país.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 3. Población<br>objetivo
 
-    p El tecnólogo de formación titulada virtual en Animación 3D del SENA, está dirigido a todas las personas que desean incursionar en la industria audiovisual, haciendo uso de sus habilidades creativas, narrativas y gerenciales, con el fin de desarrollar proyectos animados en 3D, los cuales respondan a las necesidades y requerimientos de la industria.
+    p El programa Tecnólogo virtual en Animación Digital del SENA está dirigido a todas las personas que desean incursionar en la industria audiovisual, haciendo uso de sus habilidades creativas, narrativas y gerenciales, con el fin de desarrollar proyectos animados en 2D los cuales respondan a las necesidades y estándares de la industria creativa.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 4. Estrategia<br>metodológica
 
-    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
+    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales dentro de la industria creativa; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.  
       br
       br
       |Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
@@ -86,7 +88,6 @@ section
       li
         i.lista-ul__vineta
         p El trabajo colaborativo
-
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4

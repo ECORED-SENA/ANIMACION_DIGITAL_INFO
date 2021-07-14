@@ -29,12 +29,7 @@ export default {
       {
         nombre: 'Oscar Absalón Guevara',
         cargo: 'Diseñador Instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Evaluador Instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

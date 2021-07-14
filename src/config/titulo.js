@@ -1,1 +1,1 @@
-module.exports = 'Animación 3D'
+module.exports = 'Tecnólogo Virtual en Animación Digital'
